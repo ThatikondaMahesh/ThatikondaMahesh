@@ -84,7 +84,7 @@
 - **Frontend Development**: HTML, CSS, React.js, Bootstrap.  
 - **Backend Development**: Node.js, Express.js.  
 - **Database Management**: MySQL, MongoDB.  
-- **Tools & Platforms**: Git, VS Code, Postman, Docker.  
+- **Tools & Platforms**: Git, VS Code, Postman.  
 
 
 
