@@ -72,10 +72,10 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Third-Year Bachelor of Engineering Student** at Vardhaman College of Engineering, majoring in Information Technology.  
+- 🎓 **Final-Year Bachelor of Engineering Student** at Vardhaman College of Engineering, majoring in Information Technology.  
 - 💻 Passionate about **Full-Stack Development**, **DSA**, and building **real-world solutions**.  
 - 🌟 Currently exploring advanced **Node.js** and **Backend Systems**.  
-- 🏆 **GPA**: 9.65 and actively preparing for placements with a focus on **CS Fundamentals**, **Aptitude**, and **Project Development**.  
+- 🏆 **GPA**: 9.25 and actively preparing for placements with a focus on **CS Fundamentals**, **Aptitude**, and **Project Development**.  
 
 ---
 
